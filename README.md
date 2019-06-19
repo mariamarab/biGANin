@@ -1,2 +1,5 @@
 # biGANin
-Generate arabic caligraphy/islamic art. 
+Generate arabic caligraphy/islamic art.
+
+# poopy butt
+hehehehehehehehehe
